@@ -14,7 +14,7 @@
 </ul>
 <hr>
 
-<h3> Details of various datasets used for model development : </h3>
+<h3> Various datasets used for model development : </h3>
 <ul>
 <li><p><b>Cancer</b> : cancer.csv [In the repository]</p></li>
 <li><p><b>Diabetes</b> : diabetes.csv [In the repository]</p></li>
