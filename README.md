@@ -25,16 +25,3 @@
 <li><p><b>Malaria : </b> https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria </p></li>
 <li><p><b>Pneumonia: </b> https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia </p></li>
 </ul>
-
-<hr>
-
-<h3> Tools used for project development: </h3>
-<ul>
-<li><p><b>Python ( 3.7 version)</b></p></li>
-<li><p><b>Flask</b></p></li>
-<li><p><b>OpenCV</b></p></li>
-<li><p><b>Pandas</b></p></li>
-<li><p><b>Numpy</b></p></li>
-<li><p><b>HTML</b></p></li>
-<li><p><b>CSS</b></p></li>
-</ul>
