@@ -3,6 +3,7 @@
 link: https://ai-health-center.herokuapp.com/
 
 <hr>
+
 <h3> Various model files used:</h3>
 <ul>
 <li><p><b>Cancer model = model</b></p></li>
@@ -14,6 +15,7 @@ link: https://ai-health-center.herokuapp.com/
 <li><p><b>Malaria model = model111.h5</b></p></li>
 <li><p><b>Pneumonia model = my_model.h5</b></p></li>
 </ul>
+
 <hr>
 
 <h3> Various datasets used for model development : </h3>
