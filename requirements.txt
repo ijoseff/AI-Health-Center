@@ -8,4 +8,4 @@ tensorflow
 Pillow>=5.4.0
 numpy
 scikit-learn
-pandas==0.25.1
+pandas
